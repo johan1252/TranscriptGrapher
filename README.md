@@ -34,7 +34,7 @@ Where SSR_TSRPT_UN.pdf is any Queen's University provided transcript.
 "-o" allows the output graph to be saved to a file in addition to being shown on screen.
 
 Example Graph Output:
-![Alt text](/ExampleOutput.png?raw=true)
+![alt text](https://github.com/johan1252/TranscriptGrapher/blob/master/ExampleOuput.png?raw=true)
 
 ## Authors
 
